@@ -1,0 +1,40 @@
+{
+  "country": [
+    {
+      "id": 1,
+      "country": "CHINA",
+      "city": "Beijing",
+      "population": "3339627516"
+    },
+    {
+      "id": 2,
+      "country": "INDIA",
+      "city": "Delhi",
+      "population": "0112117516"
+    },
+    {
+      "id": 3,
+      "country": "AMERICA",
+      "city": "New York",
+      "population": "7889627516"
+    },
+    {
+      "country": "INDIA",
+      "city": "Agra",
+      "population": "125657576",
+      "id": 4
+    },
+    {
+      "country": "india",
+      "city": "agra",
+      "population": "0422121211",
+      "id": 5
+    },
+    {
+      "country": "india",
+      "city": "delhi",
+      "population": "013343334",
+      "id": 6
+    }
+  ]
+}
